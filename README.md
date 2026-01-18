@@ -3,6 +3,11 @@
 
 This project investigates the impact of discount strategies on retail profitability using transactional sales data.
 
+## Overview
+ - Conducted exploratory, statistical, and predictive analysis on 9,994 retail transactions to study the impact of discount strategies on profitability
+ - Applied Welch’s t-test and correlation analysis to statistically validate discount–profit relationships, identifying a significant negative impact of discounting
+ - Built an interpretable regression model to quantify feature influence, confirming discount as the strongest negative predictor of profit
+
 ## Objectives
 - Analyze sales, discount, and profit patterns
 - Statistically test the effect of discounts on profit
